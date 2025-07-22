@@ -33,31 +33,25 @@ This project is an AI-powered exam invigilation system that leverages OpenAI's l
 ---
 
 ## 🔧 Installation
-
-    ```bash
 # Clone the repo
+    ```bash
      git clone https://github.com/your-username/llm-exam-invigilation.git
      cd llm-exam-invigilation
 
-# Set your OpenAI API Key
-echo OPENAI_API_KEY=your-key-here > .env
+## Set your OpenAI API Key
+    '''bash
+    echo OPENAI_API_KEY=your-key-here > .env
 
-# Install dependencies
-pip install -r requirements.txt
+## Install dependencies
+    '''bash
+     pip install -r requirements.txt
 
-#📝 Sample Event Log Format (logs/events.json)
-[
-  { "timestamp": "10:01:45", "event": "Student looked away from screen" },
-  { "timestamp": "10:02:15", "event": "Face not detected" },
-  { "timestamp": "10:03:30", "event": "Multiple people detected" }
-]
-
-#📄 License
+##📄 License
 This project is licensed under the MIT License.
 
-#🙋‍♂️ Contributions
+##🙋‍♂️ Contributions
 Pull requests and suggestions are welcome! Please open an issue first to discuss what you would like to change.
 
-#📫 Contact
+##📫 Contact
 For any queries, contact shubamlunawat15@gmail.com.
 
