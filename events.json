@@ -1,0 +1,19 @@
+[
+  {"timestamp": "19:45:20", "event": "Face appeared"},
+  {"timestamp": "19:48:01", "event": "User looked away"},
+  {"timestamp": "19:48:03", "event": "User looked forward again"},
+  {"timestamp": "19:48:03", "event": "User looked away"},
+  {"timestamp": "19:48:04", "event": "User looked forward again"},
+  {"timestamp": "19:48:06", "event": "User looked away"},
+  {"timestamp": "19:48:07", "event": "User looked forward again"},
+  {"timestamp": "19:48:07", "event": "User looked away"},
+  {"timestamp": "19:48:07", "event": "User looked forward again"},
+  {"timestamp": "19:48:07", "event": "User looked away"},
+  {"timestamp": "19:48:07", "event": "User looked forward again"},
+  {"timestamp": "19:48:07", "event": "User looked away"},
+  {"timestamp": "19:48:08", "event": "User looked forward again"},
+  {"timestamp": "19:48:08", "event": "User looked away"},
+  {"timestamp": "19:48:10", "event": "User looked forward again"},
+  {"timestamp": "19:48:11", "event": "User looked away"},
+  {"timestamp": "19:48:11", "event": "User looked forward again"}
+]
