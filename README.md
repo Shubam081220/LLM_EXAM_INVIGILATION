@@ -34,17 +34,14 @@ This project is an AI-powered exam invigilation system that leverages OpenAI's l
 
 ## 🔧 Installation
 # Clone the repo
-    ```bash
      git clone https://github.com/your-username/llm-exam-invigilation.git
      cd llm-exam-invigilation
 
-## Set your OpenAI API Key
-    '''bash
+# Set your OpenAI API Key
     echo OPENAI_API_KEY=your-key-here > .env
 
 ## Install dependencies
-    '''bash
-     pip install -r requirements.txt
+    pip install -r requirements.txt
 
 ##📄 License
 This project is licensed under the MIT License.
